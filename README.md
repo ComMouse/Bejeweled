@@ -4,8 +4,8 @@
 
 ## Introduction
 
-This is a naive prototype of Bejeweled with simplifed ruleset and
-a very simple user interface finished within two weekeneds.
+This is a naive prototype of Bejeweled with a simplifed ruleset and
+a very simple user interface finished within two weekends.
 
 In this game, you can swap two gems that are next to each other to
 get a pair of 3 gems or more either horizontally or vertically.
